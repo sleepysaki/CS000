@@ -6,8 +6,8 @@ int main() {
     int b = 10;
 
     int sum = a + b;
+    int difference = a - b;
 
     cout << "The sum is: " << sum << endl;
-
-    return 0;
+    cout << "The difference is: " << difference << endl;
 }
